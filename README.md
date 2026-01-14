@@ -1,12 +1,12 @@
 # ¡Hola! 👋 Soy Vanesa
 
 ## Sobre mí
-Soy **Diseñadora Gráfica y Desarrolladora Web Fullstack** con pasión por la tecnología, el diseño y la programación.  
-Actualmente estudio **Analista de Sistemas** y me estoy reinventando profesionalmente para desarrollar soluciones tecnológicas reales.  
+Soy **Desarrolladora Web Full Stack** con base en **diseño gráfico**, una combinación que me permite crear soluciones digitales funcionales, limpias y con foco en la experiencia de usuario.
+
+Trabajo principalmente con **React, TypeScript, Node.js y el stack MERN**. Disfruto resolver bugs, optimizar código y construir interfaces claras, aplicando buenas prácticas de desarrollo y una mirada centrada en cómo las personas interactúan con los productos digitales.
 
 - 📍 Córdoba, Argentina  
 - 📧 vanesasoria.com@gmail.com  
-- 📱 (+54) 351-153865256  
 - 🔗 [GitHub](https://github.com/vanehit) | [LinkedIn](https://www.linkedin.com/in/vanesa-paola-soria/)
 
 ---
@@ -14,55 +14,57 @@ Actualmente estudio **Analista de Sistemas** y me estoy reinventando profesional
 ## Tecnologías
 
 ### Frontend
-- **Lenguajes y frameworks:** HTML5, CSS3, JavaScript (ES6+), React, Vite  
-- **Librerías y herramientas:** Redux, React Router, Bootstrap, Sass/SCSS, Axios  
-- **Control de versiones:** Git/GitHub  
-- **Principios de diseño:** Responsive Design, UI/UX, accesibilidad web  
-- **Buenas prácticas:** Componentización, manejo de estado, optimización de rendimiento, consumo de APIs REST  
+HTML5, CSS3, JavaScript (ES6+), TypeScript, React, Redux, Vite, Tailwind CSS, Bootstrap.  
+Consumo de APIs REST, desarrollo de **componentes reutilizables**, manejo de **estado global**, rutas dinámicas, **responsive design**, accesibilidad (WCAG), optimización de rendimiento e integración con backend.
 
 ### Backend
-- **Lenguajes y frameworks:** Node.js, Express.js, JavaScript (ES6+)  
-- **Bases de datos:** MongoDB, Mongoose  
-- **APIs:** Diseño y consumo de APIs REST, integración con frontend  
-- **Autenticación y seguridad:** JWT, bcrypt, manejo de sesiones  
-- **Buenas prácticas:** Arquitectura MVC, manejo de rutas, validación de datos, control de errores  
-- **Herramientas:** Postman, Git/GitHub  
+Node.js, Express.js, diseño y consumo de **APIs REST**, MongoDB, Mongoose.  
+Control de rutas y controladores, validación de datos, manejo de errores, autenticación con **JWT**, operaciones **CRUD completas**, testing con Postman y arquitectura **MVC**.
+
+### Herramientas y metodologías
+Git / GitHub (flujo de trabajo con ramas y pull requests), Postman para testing de APIs, Sass/SCSS para estilos modularizados, JWT para autenticación segura, **Docker básico**, control de versiones, documentación técnica, debugging, buenas prácticas de desarrollo e integración **Frontend–Backend**.
 
 ---
 
 ## Experiencia
-### 🟦 Conecta JR – Plataforma educativa para programadores junior (2024 – actualidad)
-- Blog educativo orientado a acompañar a programadores en sus primeros pasos.  
-- **Tecnologías:** React, Redux, Bootstrap, css  
-- **Rol:** Desarrollo frontend, diseño UI y curaduría de contenido técnico  
-- [Sitio web](https://conecta-jr.vercel.app)
 
-### Aplicación Web de Ecommerce (2023)
-- Aplicación web con **React y MongoDB**, permite agregar productos, visualizar detalles, gestionar carrito y simular compras.  
+### 🟦 Conecta JR – Plataforma educativa para programadores junior (2024 – actualidad)
+- Plataforma y blog educativo orientado a acompañar a desarrolladores en sus primeros pasos.  
+- **Tecnologías:** React, Redux, Bootstrap, CSS  
+- **Rol:** Desarrollo frontend, diseño UI/UX y curaduría de contenido técnico  
+- 🔗 [Sitio web](https://conecta-jr.vercel.app)
+
+### 🛒 Aplicación Web de Ecommerce (2023)
+- Aplicación web desarrollada con **React y MongoDB**, con funcionalidades de carrito, detalle de productos y simulación de compra.  
 - **Rol:** Desarrollo frontend y backend inicial con Node.js  
 
-### App de Viajes – Proyecto final MindHub Bootcamp (2023)
-- SPA frontend (React, Vite) para planificar viajes y destinos.  
+### ✈️ App de Viajes – Proyecto final MindHub Bootcamp (2023)
+- SPA desarrollada con **React y Vite** para la planificación de viajes y destinos.  
 - **Rol:** Desarrollo de componentes, lógica de rutas y diseño responsive  
 
 ---
 
-## Formación Académica
-- 📚 **Analista de Sistemas** (En curso) – Colegio Universitario IES Siglo 21, Córdoba  
-- 🎓 **Desarrolladora Full Stack MERN** (2022) – Argentina Programa  
-- 🎨 **Diseño Gráfico y Publicitario** (2015–2018) – Colegio Universitario IES Siglo 21, Córdoba  
+## Formación Académica y Certificaciones
+
+- 🎓 **Desarrolladora Full Stack MERN** – Argentina Programa (2022)  
+- 🎨 **Diseño Gráfico y Publicitario** – Colegio Universitario IES Siglo 21, Córdoba (2015–2018)
+
+- ☁️ **Google Cloud Data Analytics** (2025)  
+  Análisis, visualización y comunicación de datos en entornos cloud para la toma de decisiones basada en datos.
+
+- 🤖 **Google Cloud – IA Generativa para Desarrolladores** (2025)  
+  Aplicación de IA generativa en desarrollo de aplicaciones, machine learning y casos prácticos.
+
+- 🧩 **Programa Full Stack – Academia ForIT / Fundación FORMAR**  
+  Formación intensiva con foco en **TypeScript, Testing (TDD), Clean Architecture, Docker, Git avanzado, automatización y escalabilidad de aplicaciones**.
 
 ---
 
 ## Capacitaciones Adicionales
-- Cursos complementarios en JavaScript, React, HTML, CSS, lógica de programación y estructuras de datos  
+- Cursos complementarios en JavaScript, React, HTML, CSS, lógica de programación y estructuras de datos.
 
 ---
 
 ## Idiomas
-- Inglés: Intermedio (lectura técnica, documentación)  
-- Portugués: Lectura y comprensión básica  
-
----
-
-
+- 🇬🇧 Inglés: Intermedio (lectura técnica y documentación)  
+- 🇧🇷 Portugués: Lectura y comprensión básica  
