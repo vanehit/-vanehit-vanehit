@@ -66,5 +66,5 @@ Git / GitHub (flujo de trabajo con ramas y pull requests), Postman para testing 
 ---
 
 ## Idiomas
-- 🇬🇧 Inglés: Intermedio (lectura técnica y documentación)  
-- 🇧🇷 Portugués: Lectura y comprensión básica  
+- Inglés: Intermedio (lectura técnica y documentación)  
+- Portugués: Lectura y comprensión básica  
